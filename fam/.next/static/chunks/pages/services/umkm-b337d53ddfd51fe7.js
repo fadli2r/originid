@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5670],{3163:function(n,_,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/services/umkm",function(){return u(8903)}])}},function(n){n.O(0,[3996,5675,6066,4962,1791,2611,8903,9774,2888,179],function(){return n(n.s=3163)}),_N_E=n.O()}]);
