@@ -130,7 +130,7 @@ const SeoAgency = () => {
                 Originfamous juga memberikan penawaran eklusif bagi bisnis anda untuk menggunakan jasa digital marketing kami.
                 </p>
                 <Link
-                  href="/pages-menu/about-us-v1"
+                  href="#"
                   className="btn-four fw-500"
                 >
                   Try free now
